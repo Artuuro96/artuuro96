@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there. I am Arturo 👋
+I am a Senior Software Engineer
 
 <!--
 **Artuuro96/artuuro96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
